@@ -22,7 +22,6 @@ def main():
     d = dict(loop=loop_func, reduce=reduce_func)
     func = d.get(f_name, raise_exc)
     print(timeit.timeit(lambda: func(num), number=amount))
-    # print(func(num))
 
 if __name__ == '__main__':
     try:
