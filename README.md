@@ -2,14 +2,8 @@
 
 Summary: Today we will help you write code that works faster.
 
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
-1. [Chapter I](#chapter-i) \
-    1.1. [Foreword](#foreword)
-2. [Chapter II](#chapter-ii) \
-    2.1. [Instructions](#instructions)
 3. [Chapter III](#chapter-iii) \
     3.1. [Specific instructions for the day](#specific-instructions-for-the-day)
 4. [Chapter IV](#chapter-iv) \
@@ -24,47 +18,7 @@ Summary: Today we will help you write code that works faster.
     8.1. [Exercise 04 : Counter](#exercise-04-counter)
 9. [Chapter IX](#chapter-ix) \
     9.1. [Exercise 05 : Generator](#exercise-05-generator)
-    
-   
-## Chapter I
 
-### Foreword
-
-* There are two words in English that are commonly confused: “efficiency” “and
-effectiveness”.
-* To highlight the difference, let us tell you a short joke.
-* My motto is “Efficiency. Efficiency. Efficiency.” Oops. I guess I only need to say it once
-* Or as Peter Drucker once said: “Efficiency is doing things right; effectiveness is
-doing the right things”
-* Your code should not only be effective, but efficient as well. And vice versa
-* One of the best games for learning how to be efficient is Factorio. Google it.
-
-Download it. And try to get back to MODULE 4 Not everyone will be able to.
-
-## Chapter II
-
-### Instructions
-
-* Use this page as your only reference. Do not listen to any rumors or speculations
-about how to prepare your solution.
-* Here and further on we use Python 3 as the only correct version of Python.
-* The python files for python exercises (module01, module02, module03) must have
-the following block in the end: ```if __name__ == ‘__main__’```.
-* Pay attention to the permissions of your files and directories.
-* To be assessed your solution must be in your GIT repository.
-* Your solutions will be evaluated by your piscine mates.
-* You should not leave in your directory any other file than those explicitly specified
-by the exercise instructions. It is recommended that you modify your .gitignore to
-avoid any accidents.
-* When you need to get precise output in your programs, it is forbidden to display a
-precalculated output instead of performing the exercise correctly.
-* Have a question? Ask your neighbor on the right. If that fails, try your neighbor
-on the left.
-* Your reference material: peers / Internet / Google.
-* You can ask questions in Slack.
-* Read the examples carefully. They may require things that are not otherwise spec-
-ified in the subject.
-* And may the Force be with you!
 
 ## Chapter III
 
